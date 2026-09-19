@@ -1,0 +1,5 @@
+requests
+anthropic
+reportlab
+pydantic
+pytest
